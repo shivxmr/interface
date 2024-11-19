@@ -1,0 +1,3 @@
+[submodule "interface-frontend"]
+	path = interface-frontend
+	url = https://github.com/shivxmr/interface-frontend
