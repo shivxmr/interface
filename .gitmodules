@@ -1,3 +1,6 @@
 [submodule "interface-frontend"]
 	path = interface-frontend
 	url = https://github.com/shivxmr/interface-frontend
+[submodule "interface-backend"]
+	path = interface-backend
+	url = https://github.com/shivxmr/interface-backend
